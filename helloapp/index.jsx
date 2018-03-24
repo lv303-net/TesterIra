@@ -3,7 +3,7 @@ class Hello extends React.Component {
       return (
           <div>
             <h1>Hello World</h1>
-            <p style="color: blue;">Made by Lv303-.NET</p>
+            <p>Made by Lv303-.NET</p>
           </div>
       );
     }
